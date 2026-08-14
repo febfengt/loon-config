@@ -53,7 +53,7 @@ Emby = select,HK手动,US手动,SG手动,vps手动,JP手动,HK自动,US自动,SG
 INS = select,HK手动,US手动,TW手动,JP手动,HK自动,US自动,TW自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png
 AI = select,US手动,US自动,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/GPT.png
 Google = select,HK手动,US手动,TW手动,JP手动,HK自动,US自动,TW自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png
-兜底 = select,YouTube,TG,Emby,INS,AI,Google,img-url = https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/fallback.png
+兜底 = select,YouTube,TG,Emby,INS,AI,Google,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png
 # ============= 地区手动 =============
 HK手动 = select,香港节点,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png
 TW手动 = select,台湾节点,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
