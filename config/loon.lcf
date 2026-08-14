@@ -19,7 +19,7 @@ interface-mode = auto
 test-timeout = 5
 disconnect-on-policy-change = false
 internet-test-url = http://connectivitycheck.platform.hicloud.com/generate_204
-proxy-test-url = http://www.gstatic.com/generate_204
+proxy-test-url = https://cp.cloudflare.com
 resource-parser = https://raw.githubusercontent.com/sub-store-org/Sub-Store/release/sub-store-parser.loon.min.js
 geoip-url = https://geodata.kelee.one/Country-Masaiki.mmdb
 ipasn-url = https://geodata.kelee.one/GeoLite2-ASN-P3TERX.mmdb
@@ -63,13 +63,13 @@ SG手动 = select,新国节点,img-url = https://raw.githubusercontent.com/Orz-3
 US手动 = select,美国节点,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
 vps手动 = select,vps,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/VPS.png
 # ============= 地区自动 =============
-HK自动 = url-test,香港节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png
-TW自动 = url-test,台湾节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
-JP自动 = url-test,日本节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png
-KR自动 = url-test,韩国节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png
-SG自动 = url-test,新国节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png
-US自动 = url-test,美国节点,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
-vps自动 = url-test,vps,interval = 60,tolerance = 50,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/VPS.png
+HK自动 = url-test,香港节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png
+TW自动 = url-test,台湾节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
+JP自动 = url-test,日本节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png
+KR自动 = url-test,韩国节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png
+SG自动 = url-test,新国节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png
+US自动 = url-test,美国节点,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
+vps自动 = url-test,vps,interval = 30,tolerance = 30,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/VPS.png
 
 [Rule]
 DOMAIN,emby.dengao.top,Emby
