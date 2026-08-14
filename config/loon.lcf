@@ -49,7 +49,7 @@ bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,1
 # ============= 服务组(手动) =============
 YouTube = select,HK手动,TW手动,JP手动,KR手动,SG手动,US手动,vps手动,HK自动,TW自动,JP自动,KR自动,SG自动,US自动,vps自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/YouTube.png
 TG = select,SG手动,HK手动,US手动,JP手动,SG自动,HK自动,US自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png
-Emby = select,HK手动,US手动,SG手动,vps手动,JP手动,HK自动,US自动,SG自动,JP自动,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/Emby.png
+Emby = select,HK手动,US手动,SG手动,vps手动,JP手动,HK自动,US自动,SG自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Emby.png
 INS = select,HK手动,US手动,TW手动,JP手动,HK自动,US自动,TW自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Instagram.png
 AI = select,US手动,US自动,img-url = https://raw.githubusercontent.com/febfengt/loon-config/main/icons/GPT.png
 Google = select,HK手动,US手动,TW手动,JP手动,HK自动,US自动,TW自动,JP自动,img-url = https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png
